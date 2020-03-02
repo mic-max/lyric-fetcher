@@ -1,7 +1,7 @@
 {
   "name": "lyric-fetcher",
-  "version": "1.0.1",
-  "description": "Fetches lyrics to songs from online soruces",
+  "version": "1.0.2",
+  "description": "Fetches lyrics to songs from online sources",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
