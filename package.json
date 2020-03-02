@@ -1,6 +1,6 @@
 {
   "name": "lyric-fetcher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fetches lyrics to songs from online soruces",
   "main": "index.js",
   "scripts": {
@@ -17,10 +17,10 @@
     "musixmatch",
     "spotify"
   ],
-	"author": {
-		"name": "Michael Maxwell",
-		"email": "yo@micmax.pw",
-		"url": "https://micmax.pw"
+  "author": {
+    "name": "Michael Maxwell",
+    "email": "yo@micmax.pw",
+    "url": "https://micmax.pw"
   },
   "files": [
     "index.js",
