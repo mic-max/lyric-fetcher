@@ -1,0 +1,38 @@
+{
+  "name": "lyric-fetcher",
+  "version": "1.0.0",
+  "description": "Fetches lyrics to songs from online soruces",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mic-max/lyric-fetcher.git"
+  },
+  "keywords": [
+    "lyrics",
+    "azlyrics",
+    "genius",
+    "musixmatch",
+    "spotify"
+  ],
+	"author": {
+		"name": "Michael Maxwell",
+		"email": "yo@micmax.pw",
+		"url": "https://micmax.pw"
+  },
+  "files": [
+    "index.js",
+    "sources"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mic-max/lyric-fetcher/issues"
+  },
+  "homepage": "https://github.com/mic-max/lyric-fetcher#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "node-fetch": "^2.6.0"
+  }
+}
