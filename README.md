@@ -1,6 +1,6 @@
 # Lyric Fetcher
 
-![NPM Version](https://img.shields.io/npm/v/lyric-fetcher.svg)
+![Node.js Package](https://github.com/mic-max/lyric-fetcher/workflows/Node.js%20Package/badge.svg) ![NPM Version](https://img.shields.io/npm/v/lyric-fetcher.svg)
 
 > Fetches lyrics to songs from online sources
 
