@@ -1,6 +1,6 @@
 {
   "name": "lyric-fetcher",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Fetches lyrics to songs from online sources",
   "main": "index.js",
   "scripts": {
