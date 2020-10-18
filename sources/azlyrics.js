@@ -23,7 +23,7 @@ function azlyrics(music, done) {
 			if ($('h1').eq(0).text() == 'Welcome to AZLyrics!')
 				throw new Error()
 
-			const rawData = $('div').eq(19).text().trim()
+			const rawData = $('div').eq(22).text().trim()
 			done(null, rawData)
 		})
 		.catch(err => {
